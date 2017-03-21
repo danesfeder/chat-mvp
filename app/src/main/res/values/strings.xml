@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatMVP</string>
+    <string name="ask_something_here">Ask something here</string>
+    <string name="response_string">Placeholder response text</string>
+</resources>
