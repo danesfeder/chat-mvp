@@ -1,6 +1,6 @@
 ##### This simple tutorial will cover how to build a chat-style user interface using a ``RecyclerView`` and Model-View-Presenter architectural pattern.
 
-Before we get into creating the layout files, we are going to need to add a couple dependcies to our ``build.gradle`` to allow use to use the Android ``RecyclerView`` and ``CardView``:
+Before we get into creating the layout files, we are going to need to add a couple dependcies to our ``build.gradle`` to allow us to use the Android ``RecyclerView`` and ``CardView``:
 
 ```
 compile 'com.android.support:appcompat-v7:25.2.0'
